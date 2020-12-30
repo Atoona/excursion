@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: Verdana;
+    
+}
+
+.title {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 22px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.play {
+    padding: 22px;
+    
+}
+
+span {
+    color: gray;
+    font-size: 21px;
+}
+
+.item img {
+    padding: 20px;
+}
+
+.travel {
+    font-weight: 300px;
+    font-size: 20px;
+    font-family: Verdana;
+}
+
+footer {
+    color: gray;
+    text-align: right;
+}
